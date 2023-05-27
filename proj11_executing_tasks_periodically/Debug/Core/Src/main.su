@@ -1,0 +1,10 @@
+../Core/Src/main.c:71:5:main	16	static
+../Core/Src/main.c:116:6:vBlueLEDcontrollerTask	24	static
+../Core/Src/main.c:127:6:vRedLEDcontrollerTask	16	static
+../Core/Src/main.c:133:6:vGreenLEDcontrollerTask	16	static
+../Core/Src/main.c:139:5:__io_putchar	16	static
+../Core/Src/main.c:149:6:SystemClock_Config	88	static
+../Core/Src/main.c:191:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:224:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:246:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:263:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,57 @@
+!SESSION 2023-05-27 11:38:34.183 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\cmh04\STM32CubeIDE\workspace_1.11.2\CSE-499_Independent-Study
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-05-27 11:38:57.553
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-05-27 11:38:57.780
+!MESSAGE Log4j initialized with config file C:\Users\cmh04\STM32CubeIDE\workspace_1.11.2\CSE-499_Independent-Study\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-05-27 11:39:10.165
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:39:58.353
+!MESSAGE Indexed 'proj01_task_creation' (34 sources, 138 headers) in 21.1 sec: 13,559 declarations; 67,798 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:42:38.433
+!MESSAGE Indexed 'proj02_creating_tasks_from_other_tasks' (34 sources, 138 headers) in 11.6 sec: 13,559 declarations; 67,798 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:42:46.268
+!MESSAGE Indexed 'proj03_task_parameters' (34 sources, 138 headers) in 7.49 sec: 13,566 declarations; 67,889 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:42:54.663
+!MESSAGE Indexed 'proj04_task_priorities' (34 sources, 138 headers) in 8.04 sec: 13,559 declarations; 67,798 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:43:06.233
+!MESSAGE Indexed 'proj05_changing_priority_during_runtime' (34 sources, 138 headers) in 7.03 sec: 13,563 declarations; 67,801 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:43:21.325
+!MESSAGE Indexed 'proj06_changing_own_priority_during_runtime' (34 sources, 138 headers) in 9.91 sec: 13,562 declarations; 67,799 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:43:34.326
+!MESSAGE Indexed 'proj07_get_task_priority' (34 sources, 138 headers) in 9.72 sec: 13,563 declarations; 67,803 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:43:42.556
+!MESSAGE Indexed 'proj08_suspending_task' (34 sources, 138 headers) in 8.14 sec: 13,566 declarations; 67,808 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:43:49.935
+!MESSAGE Indexed 'proj09_resuming_task' (38 sources, 139 headers) in 7.29 sec: 14,575 declarations; 75,303 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.16%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:44:03.312
+!MESSAGE Indexed 'proj10_blocking_task' (34 sources, 138 headers) in 7.79 sec: 13,560 declarations; 67,808 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:44:13.753
+!MESSAGE Indexed 'proj12_killing_a_task' (38 sources, 139 headers) in 7.76 sec: 14,575 declarations; 75,295 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.16%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:44:20.601
+!MESSAGE Indexed 'proj11_executing_tasks_periodically' (34 sources, 138 headers) in 6.77 sec: 13,561 declarations; 67,812 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:44:29.852
+!MESSAGE Indexed 'proj13_idle_task' (34 sources, 138 headers) in 6.98 sec: 13,567 declarations; 67,813 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-27 11:44:44.908
+!MESSAGE Indexed 'proj14_working_with_queues' (34 sources, 138 headers) in 8.87 sec: 13,559 declarations; 67,851 references; 2 unresolved inclusions; 152 syntax errors; 148 unresolved names (0.18%)
